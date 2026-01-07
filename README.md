@@ -1,3 +1,6 @@
+ADMIN CREDENTIALS:
+mail- kattamurikushal@gmail.com
+password- Kushal@118
 🚀 Server-Rendered E-commerce Product Management Dashboard
 
 An admin-only, server-side rendered (SSR) e-commerce dashboard built with Next.js App Router and Supabase, designed for managing products, inventory, and analytics securely and efficiently.
